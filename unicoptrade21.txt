@@ -1,0 +1,223 @@
+<div dir="auto" style="font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.45; color:#000000;">
+
+  <div style="margin-bottom:6px;">
+    _______________________________________
+  </div>
+
+  <div>
+    Поздрави / Kind regards / Mit freundlichen Grüßen / Bien cordialement / Met vriendelijke groet / Saludos cordiales,
+  </div>
+
+  <div style="margin-top:8px; font-size:16px; font-weight:bold;">
+    Accounting Department
+  </div>
+  
+    <!-- UNICOPTRADE LOGO -->
+  <div style="margin-top:6px;">
+    <img src="https://raw.githubusercontent.com/andonov2/sign/main/docs/unicoptrade.png"
+         width="140" height="40"
+         alt="UNICOPTRADE 21 LTD."
+         style="width:140px !important; height:auto; max-width:140px !important; display:block; border:0;">
+  </div>
+
+  <div style="margin-top:10px; font-weight:bold; color:#003399;">
+    UNICOPTRADE 21 LTD.
+  </div>
+
+  <div style="margin-top:2px;">
+    <strong>VAT number:</strong>
+    <span style="color:#cc0000;">BG201172154</span>
+  </div>
+
+  <div style="margin-top:2px;">
+    Evlogi and Hristo Georgievi Blvd. 65,<br>
+    Sofia, 1142<br>
+    Bulgaria
+  </div>
+
+<!-- Messaging icons -->
+  <table cellpadding="0" cellspacing="0" border="0" style="margin-top:10px;">
+    <tr>
+      <td style="padding-right:8px;">
+        <a href="https://wa.me/359898451679" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/whatsapp-1.png"
+               width="20" height="20"
+               alt="WhatsApp"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+      <td style="padding-right:8px;">
+        <a href="viber://chat?number=%2B359898451679" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/viber.png"
+               width="20" height="20"
+               alt="Viber"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+      <td style="padding-right:8px;">
+        <a href="https://t.me/unicoptrade21" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/telegram.png"
+               width="20" height="20"
+               alt="Telegram"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+      <td style="padding-right:8px;">
+        <a href="https://m.me/unicoptrade21" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/messenger.png"
+               width="20" height="20"
+               alt="Messenger"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+      <td style="padding-right:8px;">
+        <a href="https://signal.me/#p/+359898451679" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/signal.png"
+               width="20" height="20"
+               alt="Signal"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+      <td style="padding-right:8px;">
+        <a href="weixin://dl/profile/unicoptrade21" style="text-decoration:none;">
+          <img src="https://andonov2.github.io/sign/wechat.png"
+               width="20" height="20"
+               alt="WeChat"
+               style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Phone numbers & email -->
+  <table cellpadding="0" cellspacing="0" border="0" style="margin-top:10px; font-size:13px; line-height:1.35;">
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/phone.png"
+             width="20" height="20"
+             alt="Phone"
+             style="width:20px !important; height:20px !important; max-width:20px !important; max-height:20px !important; display:block; border:0; outline:none; text-decoration:none;">
+      </td>
+      <td style="vertical-align:middle;">
+        <a href="tel:+359898451679" style="color:#000; text-decoration:none;">
+          <strong>+359 898 451 679</strong> (WhatsApp, Viber etc.)
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/bulgaria.png"
+             width="15" height="15"
+             alt="Bulgaria"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+359888531440" style="color:#000; text-decoration:none;">+359 888 531 440</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/greek.png"
+             width="15" height="15"
+             alt="Greece"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+306944911281" style="color:#000; text-decoration:none;">+30 (694) 4911 281</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/german.png"
+             width="15" height="15"
+             alt="Germany"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+4917664290513" style="color:#000; text-decoration:none;">+49 (176) 6429 0513</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/uk.png"
+             width="15" height="15"
+             alt="United Kingdom"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+447511860635" style="color:#000; text-decoration:none;">+44 (75) 1186 0635</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/netherlands.png"
+             width="15" height="15"
+             alt="Netherlands"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+31685275308" style="color:#000; text-decoration:none;">+31 (685) 275 308</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/belgium.png"
+             width="15" height="15"
+             alt="Belgium"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+32466277374" style="color:#000; text-decoration:none;">+32 (466) 277 374</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/switzerland.png"
+             width="15" height="15"
+             alt="Switzerland"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="tel:+41795881831" style="color:#000; text-decoration:none;">+41 (79) 588 1831</a></td>
+    </tr>
+
+    <tr>
+      <td style="padding-right:8px; vertical-align:middle;">
+        <img src="https://andonov2.github.io/sign/email.png"
+             width="15" height="15"
+             alt="Email"
+             style="width:15px !important; height:15px !important; max-width:15px !important; max-height:15px !important; display:block; border:0;">
+      </td>
+      <td><a href="mailto:info@andonov.eu" style="color:#000; text-decoration:none;">info@andonov.eu</a></td>
+    </tr>
+  </table>
+
+<!-- Malware Free Note + SentinelOne Logo -->
+<div style="margin-top:14px;">
+  <div style="font-size:12px; margin-bottom:4px;">
+    Email free of malware:
+  </div>
+  <img src="https://andonov2.github.io/sign/651572b1ab89cdc91c544cff_5e549c53b845e4121f2b8dcf_logo-SentinelOne.png"
+       width="120" height="30"
+       alt="SentinelOne"
+       style="width:120px !important; height:30px !important; max-width:120px !important; max-height:30px !important; display:block; border:0;">
+</div>
+
+
+    <!-- Think Before You Print Image -->
+    <tr>
+      <td style="padding-left:0px; text-align:left; padding-top:10px; line-height:0;">
+        <img src="https://andonov2.github.io/sign/thinkb5.png"
+             width="200" height="40"
+             alt="Think Before You Print"
+             style="width:200px !important; height:auto; max-width:200px !important; display:block; border:0;">
+      </td>
+    </tr>
+  </table>
+
+  <!-- Disclaimer -->
+  <div style="margin-top:10px; font-size:11px; line-height:1.35;">
+    _____________________________________<br>
+
+    Това съобщение, включително всички прикачени файлове е предназначено и адресирано единствено за лицето, на което е изпратено, и може да съдържа информация, която е поверителна или защитена от закона. Ако не сте предвиденият получател или сте получили това съобщение по погрешка, нямате право да копирате, разпространявате или използвате по друг начин това съобщение или неговите прикачени файлове. Моля, уведомете подателя незабавно с обратен имейл и изтрийте за постоянно това съобщение и всички прикачени файлове. АГРО-БЕЛ 2001 не дава гаранция, че този имейл не съдържа грешки или вируси.<br><br>
+
+    This e-mail message, including any attachments, is for the sole use of the person to whom it has been sent and may contain information that is confidential or legally protected. If you are not the intended recipient or have received this message in error, you are not authorized to copy, distribute, or otherwise use this message or its attachments. Please notify the sender immediately by return e-mail and permanently delete this message and any attachments. AGRO-BEL 2001 makes no warranty that this e-mail is error or virus free.<br><br>
+
+    Diese E-Mail-Nachricht, einschließlich aller Anhänge, ist für den ausschließlichen Gebrauch der Person bestimmt, an die sie gesendet wurde, und kann vertrauliche oder rechtlich geschützte Informationen enthalten. Wenn Sie nicht der beabsichtigte Empfänger sind oder diese Nachricht irrtümlich erhalten haben, sind Sie nicht berechtigt, diese Nachricht oder ihre Anhänge zu kopieren, zu verbreiten oder anderweitig zu verwenden. Bitte benachrichtigen Sie den Absender unverzüglich per Antwort-E-Mail und löschen Sie diese Nachricht und alle Anhänge dauerhaft. AGRO-BEL 2001 übernimmt keine Gewähr dafür, dass diese E-Mail frei von Fehlern oder Virus ist.
+  </div>
+
+</div>
